@@ -1,2 +1,4 @@
-# Network_1
-simple client server socket programming with python :)
+# Network_HW1
+The first homework of the network cource.
+simple client-server program with python.
+
